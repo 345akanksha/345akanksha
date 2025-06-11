@@ -5,4 +5,4 @@
  Currently exploring Python, ML models, and full-stack web apps
  Always up for meaningful collaborations in AI, UI/UX, or tech for good
  Let’s connect:
- akanksha.shetty@mitwpu.edu.in | akankshashetty345@gmail.com
+ akanksha.shetty@mitwpu.edu.in | akankshashetty345@gmail.com
